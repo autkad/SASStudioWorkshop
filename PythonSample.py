@@ -2,7 +2,7 @@ import os, sys
 sys.path
 
 # define our data references
-input_table = 'SASHELP.CLASS'
+input_table = 'WORK.CLASS_SUB'
 output_table = 'WORK.PYTHONOUT'
 
 # set input data to pipe from SAS
