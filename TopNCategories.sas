@@ -18,7 +18,8 @@
 %let measureformat=%str(format=BEST6.);
 %let stat=MEAN;
 
-%let n=16;
+/* new branch in SAS Studio created */
+%let n=71;
 
 %let category=Origin;
 title "Top Models by MPG_City for each region of Origin";
