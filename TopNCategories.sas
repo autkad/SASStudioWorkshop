@@ -19,7 +19,7 @@
 %let stat=MEAN;
 
 /* new branch in SAS Studio created */
-%let n=72;
+%let n=73;
 
 %let category=Origin;
 title "Top Models by MPG_City for each region of Origin";
