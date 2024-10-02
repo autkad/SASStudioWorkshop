@@ -18,7 +18,7 @@
 %let measureformat=%str(format=BEST6.);
 %let stat=MEAN;
 
-/* 8 in EG (EG branch) */
+/* 10 in GIT (git5 branch) */
 %let n=8;
 
 %let category=Origin;
