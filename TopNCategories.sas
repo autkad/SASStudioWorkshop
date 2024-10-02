@@ -18,8 +18,8 @@
 %let measureformat=%str(format=BEST6.);
 %let stat=MEAN;
 
-/* 1 in SAS EG */
-%let n=1;
+/* 2 in SAS SASS */
+%let n=2;
 
 %let category=Origin;
 title "Top Models by MPG_City for each region of Origin";
