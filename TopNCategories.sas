@@ -18,8 +18,8 @@
 %let measureformat=%str(format=BEST6.);
 %let stat=MEAN;
 
-/* 10 (at LBS) */
-%let n=10;
+/* 100 (at LBS) */
+%let n=100;
 
 %let category=Origin;
 title "Top Models by MPG_City for each region of Origin";
