@@ -18,8 +18,8 @@
 %let measureformat=%str(format=BEST6.);
 %let stat=MEAN;
 
-/* 0610 TEst git (branch stefan) */
-%let n=610;
+/* 0610 TEst git (foo) */
+%let n=300;
 
 %let category=Origin;
 title "Top Models by MPG_City for each region of Origin";
